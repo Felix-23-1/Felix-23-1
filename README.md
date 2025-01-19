@@ -39,5 +39,6 @@
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/1e37/1e37/output/github-contribution-grid-snake.svg)
 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-23-1&layout=compact&theme=radical
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)
+
 
