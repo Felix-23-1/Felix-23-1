@@ -1,8 +1,7 @@
 # 👋 Hello, I’m Felix!
 
 ### 👨‍💻 About Me
-- 🌟 **Code Enthusiast | Web3 Explorer | Lifelong Learner**  
-- 🔍 **Interests:** Exploring blockchain technology, smart contracts, and decentralized applications  
+- 🌟 **Code Enthusiast | Web3 Explorer | Lifelong Learner** 
 - 💻 **Currently:** Working as a Full-Stack Developer in Web2  
 - 🎯 **Future Goal:** Transitioning into Web3 development and building impactful decentralized solutions  
 - 🎮 **Hobbies:** Gaming, Gym 🏋️‍♂️, and Traveling 🌍  
@@ -40,7 +39,7 @@
 
 ### 📚 Interests
 - 🌟 Blockchain and Decentralized Technologies  
-- 🎮 Gaming and exploring game development  
+- 🎮 Exploring new games
 - 💡 Open-source contributions and learning new tech  
 
 ---
