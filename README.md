@@ -36,8 +36,6 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" width="50" height="50"/>
 </div>
 
-                                                                                         |
-
 ---
 
 ### 📚 Interests
