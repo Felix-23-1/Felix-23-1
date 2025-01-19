@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hello, I’m Felix!
 
-<!--
-**Felix-23-1/Felix-23-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🌟 **Code Enthusiast | Web3 Explorer | Lifelong Learner**  
+- 🔍 **Interests:** Exploring blockchain technology, smart contracts, and decentralized applications  
+- 💻 **Currently:** Working as a Full-Stack Developer in Web2  
+- 🎯 **Future Goal:** Transitioning into Web3 development and building impactful decentralized solutions  
+- 🎮 **Hobbies:** Gaming, Gym 🏋️‍♂️, and Traveling 🌍  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 My Tech Stack
+
+#### Languages & Tools:
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+
+#### Backend:
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+
+#### Frontend:
+![React](https://img.shields.io/badge/-React-blue?logo=react)
+![Java](https://img.shields.io/badge/-Java-red?logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+![Felix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felix-23-1&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-23-1&layout=compact&theme=radical)
+
+---
+
+### 📚 Interests
+- 🌟 Blockchain and Decentralized Technologies  
+- 🎮 Gaming and exploring game development  
+- 💡 Open-source contributions and learning new tech  
+
+---
+
