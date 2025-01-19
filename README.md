@@ -6,8 +6,14 @@
 - 🌟 **Code Enthusiast | Web3 Explorer | Lifelong Learner** 
 - 💻 **Currently:** Working as a Full-Stack Developer in Web2  
 - 🎯 **Future Goal:** Transitioning into Web3 development and building impactful decentralized solutions  
-- 🎮 **Hobbies:** Gaming, Gym 🏋️‍♂️, and Traveling 🌍  
+- 🎮 **Hobbies:** Gaming, Gym 🏋️‍♂️, and Traveling 🌍
 
+  
+
+### 📚 Interests
+- 🌟 Blockchain and Decentralized Technologies  
+- 🎮 Exploring new games
+- 💡 Open-source contributions and learning new tech  
 
 
 
@@ -38,14 +44,6 @@
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" width="50" height="50"/>
 </div>
-
-
-
-
-### 📚 Interests
-- 🌟 Blockchain and Decentralized Technologies  
-- 🎮 Exploring new games
-- 💡 Open-source contributions and learning new tech  
 
 
 
