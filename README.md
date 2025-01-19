@@ -8,16 +8,35 @@
 - 🎮 **Hobbies:** Gaming, Gym 🏋️‍♂️, and Traveling 🌍  
 
 ---
-
 ## 🛠 My Tech Stack
 
-| **Languages & Tools**                                                                                  | **Backend**                                                                            | **Frontend**                                                                                       |
-|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**                    | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js**             | ![React](https://img.icons8.com/color/48/000000/react-native.png) **React**                      |
-| ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML5**                                  | ![PHP](https://img.icons8.com/color/48/000000/php.png) **PHP**                        | ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML5**                            |
-| ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS3**                                      |                                                                                       | ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS3**                                |
-| ![PHP](https://img.icons8.com/color/48/000000/php.png) **PHP**                                         |                                                                                       |                                                                                                   |
-| ![TailwindCSS](https://img.icons8.com/color/48/000000/tailwind_css.png) **TailwindCSS**                |                                                                                       |                                                                                                   |
+### 🌐 Languages & Tools
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" title="PHP" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="TailwindCSS" title="TailwindCSS" width="50" height="50"/>
+</div>
+
+---
+
+### 🛠 Backend
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" title="PHP" width="50" height="50"/>
+</div>
+
+---
+
+### 🌐 Frontend
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" width="50" height="50"/>
+</div>
+
+                                                                                         |
 
 ---
 
