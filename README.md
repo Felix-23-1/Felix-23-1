@@ -8,12 +8,6 @@
 - 🎯 **Future Goal:** Transitioning into Web3 development and building impactful decentralized solutions  
 - 🎮 **Hobbies:** Gaming, Gym 🏋️‍♂️, and Traveling 🌍
 
-  
-
-### 📚 Interests
-- 🌟 Blockchain and Decentralized Technologies  
-- 🎮 Exploring new games
-- 💡 Open-source contributions and learning new tech  
 
 
 
