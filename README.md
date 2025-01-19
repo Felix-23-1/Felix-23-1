@@ -30,12 +30,6 @@
 
 ---
 
-### 📈 GitHub Stats
-![Felix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felix-23-1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-23-1&layout=compact&theme=radical)
-
----
-
 ### 📚 Interests
 - 🌟 Blockchain and Decentralized Technologies  
 - 🎮 Gaming and exploring game development  
