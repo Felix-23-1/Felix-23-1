@@ -27,6 +27,18 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 
+
+
+## 🛠 My Skills
+
+| **Frontend**          | **Backend**           | **Tools & Platforms**   |
+|------------------------|-----------------------|--------------------------|
+| ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) | ![Web3.js](https://img.shields.io/badge/-Web3.js-purple?logo=web3.js&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) |
+| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) |                       |                          |
+
+
 ---
 
 ### 📚 Interests
