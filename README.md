@@ -35,4 +35,7 @@
 - 💡 Open-source contributions and learning new tech  
 
 ---
+## 🐍 My Contribution Snake
+![GitHub Contribution Snake](https://raw.githubusercontent.com/1e37/1e37/output/github-contribution-grid-snake.svg)
+
 
