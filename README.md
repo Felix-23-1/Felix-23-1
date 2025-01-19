@@ -11,26 +11,13 @@
 
 ## 🛠 My Tech Stack
 
-### 🌐 Languages & Tools:
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**
-- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML5**
-- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS3**
-- ![PHP](https://img.icons8.com/color/48/000000/php.png) **PHP**
-- ![TailwindCSS](https://img.icons8.com/color/48/000000/tailwind_css.png) **TailwindCSS**
-
----
-
-### 🛠 Backend:
-- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js**
-- ![PHP](https://img.icons8.com/color/48/000000/php.png) **PHP**
-
----
-
-### 🌐 Frontend:
-- ![React](https://img.icons8.com/color/48/000000/react-native.png) **React**
-- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML5**
-- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS3**
-
+| **Languages & Tools**                                                                                  | **Backend**                                                                            | **Frontend**                                                                                       |
+|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**                    | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js**             | ![React](https://img.icons8.com/color/48/000000/react-native.png) **React**                      |
+| ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML5**                                  | ![PHP](https://img.icons8.com/color/48/000000/php.png) **PHP**                        | ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML5**                            |
+| ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS3**                                      |                                                                                       | ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS3**                                |
+| ![PHP](https://img.icons8.com/color/48/000000/php.png) **PHP**                                         |                                                                                       |                                                                                                   |
+| ![TailwindCSS](https://img.icons8.com/color/48/000000/tailwind_css.png) **TailwindCSS**                |                                                                                       |                                                                                                   |
 
 ---
 
