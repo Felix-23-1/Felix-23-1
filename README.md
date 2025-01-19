@@ -6,7 +6,7 @@
 - 🎯 **Future Goal:** Transitioning into Web3 development and building impactful decentralized solutions  
 - 🎮 **Hobbies:** Gaming, Gym 🏋️‍♂️, and Traveling 🌍  
 
----
+
 ## 🛠 My Tech Stack
 
 ### 🌐 Languages & Tools
@@ -18,7 +18,7 @@
   <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="TailwindCSS" title="TailwindCSS" width="50" height="50"/>
 </div>
 
----
+
 
 ### 🛠 Backend
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
@@ -26,7 +26,7 @@
   <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" title="PHP" width="50" height="50"/>
 </div>
 
----
+
 
 ### 🌐 Frontend
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
@@ -35,14 +35,14 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" width="50" height="50"/>
 </div>
 
----
+
 
 ### 📚 Interests
 - 🌟 Blockchain and Decentralized Technologies  
 - 🎮 Exploring new games
 - 💡 Open-source contributions and learning new tech  
 
----
+
 ## 🐍 My Contribution Snake
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/1e37/1e37/output/github-contribution-grid-snake.svg)
 
