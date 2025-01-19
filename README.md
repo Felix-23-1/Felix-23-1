@@ -24,7 +24,6 @@
 
 #### Frontend:
 ![React](https://img.shields.io/badge/-React-blue?logo=react)
-![Java](https://img.shields.io/badge/-Java-red?logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 
