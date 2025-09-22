@@ -12,24 +12,24 @@
 
 ### 💻 Core Skills (Learning & Building)
 
-| JavaScript | PHP | HTML5 | CSS3 | TailwindCSS | React |
-|-----------|-----|-------|------|-------------|-------|
-| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![PHP](https://img.icons8.com/color/48/000000/php.png) | ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) | ![CSS3](https://img.icons8.com/color/48/000000/css3.png) | ![TailwindCSS](https://img.icons8.com/color/48/000000/tailwind_css.png) | ![React](https://img.icons8.com/color/48/000000/react-native.png) |
-
+| JavaScript | PHP | HTML5 | CSS3 | TailwindCSS |
+|-----------|-----|-------|------|-------------|
+| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![PHP](https://img.icons8.com/color/48/000000/php.png) | ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) | ![CSS3](https://img.icons8.com/color/48/000000/css3.png) | ![TailwindCSS](https://img.icons8.com/color/48/000000/tailwind_css.png) |
 
 ---
 
 ### 🖼️ Tools & Frameworks
-| Laravel | Statamic | Node.js |
-|--------|---------|--------|
-| ![Laravel](https://img.icons8.com/fluency/48/laravel.png) | ![Statamic](https://img.icons8.com/fluency/48/server.png) | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) |
+| Laravel | Statamic | Node.js | React |
+|--------|---------|--------|-------|
+| ![Laravel](https://img.icons8.com/fluency/48/laravel.png) | ![Statamic](https://img.icons8.com/fluency/48/server.png) | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) | ![React](https://img.icons8.com/color/48/000000/react-native.png) |
 
 ---
 
 ### 🌐 Future & Web3 Focus
 | Solidity | Move |
 |---------|------|
-| ![Solidity](https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg) | ![Move](https://cryptologos.cc/logos/aptos-apt-logo.png?v=029)|
+| ![Solidity](https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg) | ![Move](https://cryptologos.cc/logos/aptos-apt-logo.png?v=029) |
+
 
 
 
