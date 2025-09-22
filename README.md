@@ -11,9 +11,11 @@
 ---
 
 ### 💻 Core Skills (Learning & Building)
-| JavaScript | PHP | HTML5 | CSS3 | TailwindCSS |
-|-----------|-----|-------|------|-------------|
+
+| JavaScript | PHP | HTML5 | CSS3 | TailwindCSS | React |
+|-----------|-----|-------|------|-------------|-------|
 | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![PHP](https://img.icons8.com/color/48/000000/php.png) | ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) | ![CSS3](https://img.icons8.com/color/48/000000/css3.png) | ![TailwindCSS](https://img.icons8.com/color/48/000000/tailwind_css.png) | ![React](https://img.icons8.com/color/48/000000/react-native.png) |
+
 
 ---
 
