@@ -27,8 +27,8 @@
 ---
 
 ### 🌐 Future & Web3 Focus
-| Solidity | Move | React |
-|---------|------|-------|
+| Solidity | Move |
+|---------|------|
 | ![Solidity](https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg) | ![Move](https://cryptologos.cc/logos/aptos-apt-logo.png?v=029)|
 
 
