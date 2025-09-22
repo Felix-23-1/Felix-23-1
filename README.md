@@ -1,45 +1,35 @@
 # 👋 Hello, I’m Felix!
 
 
-
 ### 👨‍💻 About Me
-- 🌟 **Code Enthusiast | Web3 Explorer | Lifelong Learner** 
-- 💻 **Currently:** Working as a Full-Stack Developer in Web2  
-- 🎯 **Future Goal:** Transitioning into Web3 development and building impactful decentralized solutions  
-- 🎮 **Hobbies:** Gaming, Gym 🏋️‍♂️, and Traveling 🌍
+- 🌟 **Code Enthusiast | Web3 Explorer | Lifelong Learner**
+- 🌱 **Currently Learning:** JavaScript (DOM, Events, Async), PHP, Statamic, Laravel  
+- 🎯 **Future Goal:** Transition into Web3 development and build impactful decentralized solutions  
+- 🚀 **Approach:** Learn by building – creating small, working projects and sharing them on GitHub  
+- 🎮 **Hobbies:** Gaming, Gym 🏋️‍♂️, Traveling 🌍
 
+---
 
+## 🛠 Tech Stack
 
+### 💻 Core Skills (Learning & Building)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![PHP](https://img.icons8.com/color/48/000000/php.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![TailwindCSS](https://img.icons8.com/color/48/000000/tailwind_css.png)
 
-## 🛠 My Tech Stack
+### 🖼️ Tools & Frameworks
+![Laravel](https://img.icons8.com/fluency/48/laravel.png)
+![Statamic](https://img.icons8.com/color/48/000000/server.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 
-### 🌐 Languages & Tools
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" title="PHP" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="TailwindCSS" title="TailwindCSS" width="50" height="50"/>
-</div>
+### 🌐 Future & Web3 Focus
+![Solidity](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-solidity-an-object-oriented-programming-language-for-writing-smart-contracts-logo-color-tal-revivo.png)
+![Move](https://img.icons8.com/color/48/blockchain.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
 
-
-
-### 🛠 Backend
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" title="PHP" width="50" height="50"/>
-</div>
-
-
-
-### 🌐 Frontend
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" width="50" height="50"/>
-</div>
-
-
+---
 
 ## 🐍 My Contribution Snake
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/1e37/1e37/output/github-contribution-grid-snake.svg)
