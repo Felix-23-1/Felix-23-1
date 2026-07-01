@@ -2,9 +2,8 @@
 
 
 ### 👨‍💻 About Me
-- **Code Enthusiast | Web3 Explorer | Lifelong Learner**
-- **Currently Learning:** JavaScript, PHP, Statamic, Laravel  
-- **Future Goal:** Transition into Web3 development and build impactful decentralized solutions  
+- **Code Enthusiast** 
+- **Future:** Transition into Web3 development and build impactful decentralized solutions  
 - **Approach:** Learn by building – creating projects and sharing them on GitHub  
 - **Hobbies:** Gaming, Gym 🏋️‍♂️, Traveling 🌍
 
