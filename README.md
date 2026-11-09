@@ -3,7 +3,7 @@
 
 ### 👨‍💻 About Me
 - **Code Enthusiast** 
-- **Future:** Transition into Web3 development and build impactful decentralized solutions  
+- **Future:** Transition into Web3 development 
 - **Approach:** Learn by building – creating projects and sharing them on GitHub  
 - **Hobbies:** Gaming, Gym 🏋️‍♂️, Traveling 🌍
 
